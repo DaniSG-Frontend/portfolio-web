@@ -1,7 +1,4 @@
 import { Section, SdescriptionAbout, STitleSection } from "../styles/StyledComponents/About"
-// import { AvatarIcon } from "../components/Icons"
-import { Avatar } from "../styles/StyledComponents/Avatar"
-import Image from '../assets/images/Avatar2.png'
 export default function About() {
   return (
     <Section>
